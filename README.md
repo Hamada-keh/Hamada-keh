@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning C#
 - 🏏 Game Jams none (looking forward to participate in one)
 - 📫 How to reach me: ...
-- ⚡ Fun fact: I love coding, guns, 
+- ⚡ Fun facts: I love Coding, Guns, ColdShowers
 
 ### Skills:
-  - C#.........................★ ☆ ☆ ☆ ☆ 
-  - GDScript................★ ★ ☆ ☆ ☆ 
-  - Godot Engine.........★ ★ ★ ☆ ☆ 
-  - Unity Engine...........★ ★ ☆ ☆ ☆ 
-  - HTML/CSS...............★ ☆ ☆ ☆ ☆
+  - C#.........................⭐
+  - GDScript................⭐⭐
+  - Godot Engine.........⭐⭐⭐
+  - Unity Engine...........⭐⭐
+  - HTML/CSS...............⭐
 
 ### Projects:
   - Farmaxing 🚜 
