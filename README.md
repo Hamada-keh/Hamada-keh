@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Hamada-keh/Hamada-keh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on a Fishing game
+- 🌱 I’m currently learning C#
+- 🏏 Game Jams none (looking forward to participate in one)
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love coding, guns, 
+
+Skills:
+  C#            ★ ☆ ☆ ☆ ☆ 
+  GDScript      ★ ★ ☆ ☆ ☆ 
+  Godot Engine  ★ ★ ★ ☆ ☆ 
+  Unity Engine  ★ ★ ☆ ☆ ☆ 
+  HTML/CSS      ★ ☆ ☆ ☆ ☆
+
+Projects:
+  Farmaxing 🚜 
+  Shlap! 👋 
+  Trench Jerker🧟 
+  Drone War ⌘ 
+  Mail bird 🖂
