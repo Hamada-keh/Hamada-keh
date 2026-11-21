@@ -7,11 +7,11 @@
 - ⚡ Fun fact: I love coding, guns, 
 
 ### Skills:
-  - C#            ★ ☆ ☆ ☆ ☆ 
-  - GDScript      ★ ★ ☆ ☆ ☆ 
-  - Godot Engine  ★ ★ ★ ☆ ☆ 
-  - Unity Engine  ★ ★ ☆ ☆ ☆ 
-  - HTML/CSS      ★ ☆ ☆ ☆ ☆
+  - C#......................★ ☆ ☆ ☆ ☆ 
+  - GDScript................★ ★ ☆ ☆ ☆ 
+  - Godot Engine............★ ★ ★ ☆ ☆ 
+  - Unity Engine............★ ★ ☆ ☆ ☆ 
+  - HTML/CSS................★ ☆ ☆ ☆ ☆
 
 ### Projects:
   - Farmaxing 🚜 
