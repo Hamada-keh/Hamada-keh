@@ -6,16 +6,16 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I love coding, guns, 
 
-Skills:
-  C#            ★ ☆ ☆ ☆ ☆ 
-  GDScript      ★ ★ ☆ ☆ ☆ 
-  Godot Engine  ★ ★ ★ ☆ ☆ 
-  Unity Engine  ★ ★ ☆ ☆ ☆ 
-  HTML/CSS      ★ ☆ ☆ ☆ ☆
+### Skills:
+  - C#            ★ ☆ ☆ ☆ ☆ 
+  - GDScript      ★ ★ ☆ ☆ ☆ 
+  - Godot Engine  ★ ★ ★ ☆ ☆ 
+  - Unity Engine  ★ ★ ☆ ☆ ☆ 
+  - HTML/CSS      ★ ☆ ☆ ☆ ☆
 
-Projects:
-  Farmaxing 🚜 
-  Shlap! 👋 
-  Trench Jerker🧟 
-  Drone War ⌘ 
-  Mail bird 🖂
+### Projects:
+  - Farmaxing 🚜 
+  - Shlap! 👋 
+  - Trench Jerker🧟 
+  - Drone War ⌘ 
+  - Mail bird 🖂
