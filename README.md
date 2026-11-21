@@ -6,9 +6,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun facts: I love Coding, Guns, ColdShowers
 
-### Skills:
-  - C#.........................⭐
-  - GDScript................⭐⭐
+### Skills(/5s):
+  - C#...........................⭐
+  - GDScript.................⭐⭐
   - Godot Engine.........⭐⭐⭐
   - Unity Engine...........⭐⭐
   - HTML/CSS...............⭐
